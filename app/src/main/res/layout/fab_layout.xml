@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.yoga.ui.base.FloatingActionsMenu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fab"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom|end"
+    android:layout_margin="10dp"
+    android:src="@mipmap/ic_add_white"
+    tools:showIn="@layout/fragment_directory">
+
+    <com.android.yoga.ui.base.FloatingActionButton
+        android:id="@+id/fab_share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        fab:fab_size="mini"
+        fab:fab_colorNormal="@color/colorPrimaryDark"
+        fab:fab_title="Share"
+        fab:fab_icon="@mipmap/ic_send_white" />
+
+    <com.android.yoga.ui.base.FloatingActionButton
+        android:id="@+id/fab_ref"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        fab:fab_size="mini"
+        fab:fab_colorNormal="@color/colorPrimaryDark"
+        fab:fab_title="Update"
+        fab:fab_icon="@mipmap/ic_refresh_white_24dp" />
+</com.android.yoga.ui.base.FloatingActionsMenu>

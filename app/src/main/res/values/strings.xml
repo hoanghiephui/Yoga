@@ -1,6 +1,97 @@
 <resources>
     <string name="app_name">Yoga</string>
+    <string name="apiYoutube">AIzaSyCCrAmTuviLjOScT6qTcj34LUfFe_80kRI</string>
+    <string name="sign_in">Sign in</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2257698129050878/4646170348</string>
+    <string name="banner_ad_detail">ca-app-pub-2257698129050878/6122903541</string>
+    <string name="banner_popup">ca-app-pub-2257698129050878/1041301941</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="inbox">Inbox</string>
+    <string name="starred">Starred</string>
+    <string name="sent_mail">Sent Mail</string>
+    <string name="drafts">Drafts</string>
+    <string name="categories">Categories</string>
+    <string name="trash">Trash</string>
+    <string name="spam">Spam</string>
+    <string name="settings">Settings</string>
+
+    <string name="add">Add</string>
+    <string name="search">Search</string>
+
+    <string name="important">Important</string>
+    <string name="documents">Documents</string>
+
+    <!-- Toast -->
+    <string name="open_user_profile">Open user profile</string>
+    <string name="open_settings">Open settings</string>
+
+    <string name="type">Type</string>
+    <string name="level">Level</string>
+    <string name="az">A-Z</string>
+    <string name="posebase">Pose Base</string>
+    <string name="programs">Programs</string>
+    <string name="all">All</string>
+    <string name="goal">Goal</string>
+    <string name="duration">Full Time</string>
+
+    <string name="transitionImage">image</string>
+    <string name="transitionTitle">title</string>
+    <string name="Recherche">Recherche</string>
+    <string name="author">Author:</string>
+    <string name="description">Description</string>
+    <string name="detail">Detail</string>
+    <string name="filter">Filter</string>
+    <string name="balances">Balances</string>
+    <string name="backbends">Backbends</string>
+    <string name="breathing">Breathing</string>
+    <string name="forwardbends">Forward Bends</string>
+    <string name="inverted">Inverted</string>
+    <string name="lyingb">Lying On The Back</string>
+    <string name="lyings">Lying On The Stomach</string>
+    <string name="sitting">Sitting and Twisting</string>
+    <string name="standing">Standing</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="lang_vn">Tiếng Việt</string>
+    <string name="beginner">Beginner</string>
+    <string name="intermediate">Intermediate</string>
+    <!--trung cấp-->
+    <string name="advanced">Advanced</string>
+    <!--nâng cao-->
+    <string name="coming">Coming Soon</string>
+
+    <string name="NetworkError">NetWork Error. Please swipe the screen from the top down to reload.</string>
+    <string name="servererr">Server Error. Please swipe the screen from the top down to reload.</string>
+    <string name="AuthFailureError">Auth Failure Error. Please swipe the screen from the top down to reload.</string>
+    <!--xác thực-->
+    <string name="ParseError">Parse Error. Please swipe the screen from the top down to reload.</string>
+    <string name="NoConnectionError">No Connection Error. Please swipe the screen from the top down to reload.</string>
+    <string name="TimeoutError">Timeout Error. Please swipe the screen from the top down to reload.</string>
+    <string name="err">Please swipe the screen from the top down to reload.</string>
+
+    <!-- About -->
+    <string name="about_description_1">App Developer</string>
+    <string name="about_description_2">Icon Designer</string>
+    <string name="app_description">App is beautifully designed, simple to use. Including the posture and breathing exercises.</string>
+    <string name="action_about">About</string>
+    <string name="settings_googleplay">Rate on Google Play</string>
+    <string name="googleplus">Join the community on Google+</string>
+
+    <string name="des">This strengthening set benefits the back and abdominal muscles. Do the asanas smoothly and carefully and you will feel the gentle power of yoga that improves your physique and enriches your mind.</string>
+    <string name="searchs">Search</string>
+    <string name="search_hint">Search by name&#8230;</string>
+    <string name="search_noresults">No results were found for your search</string>
+    <string name="update">Update</string>
+    <string name="system">Systems</string>
+    <string name="see">See detailed instructions in video</string>
+    <string name="Personalisation">Personalisation</string>
+    <string name="darkTheme">Dark Theme</string>
+    <string name="darkThemeDes">Change dark theme for all applications</string>
+    <string name="settings_primary_color">Primary color</string>
+    <string name="settings_primary_color_description">Set the primary color for the toolbar and navigation bar. Apply for light theme</string>
+    <string name="settings_fab_color">Accent color</string>
+    <string name="settings_fab_color_description">Set the color for the Accent. Apply for light theme</string>
+    <string name="api_youtube" translatable="false">AIzaSyCCrAmTuviLjOScT6qTcj34LUfFe_80kRI</string>
+    <string name="video_id_not_valid">Sorry, there appears to be a problem with the video url.</string>
 </resources>

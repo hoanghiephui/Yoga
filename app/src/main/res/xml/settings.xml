@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.jenzz.materialpreference.PreferenceCategory android:title="@string/Personalisation">
+        <com.jenzz.materialpreference.SwitchPreference
+            android:defaultValue="false"
+            android:key="theme"
+            android:summary="@string/darkThemeDes"
+            android:title="@string/darkTheme" />
+        <com.android.yoga.dashclockpicker.ColorPreference
+            android:defaultValue="@color/colorPrimary"
+            android:key="prefPrimaryColor"
+            android:negativeButtonText="@null"
+            android:positiveButtonText="@null"
+            android:summary="@string/settings_primary_color_description"
+            android:title="@string/settings_primary_color"
+            app:choices="@array/colors_primary"
+            app:itemLayout="@layout/dash_grid_item_color"
+            app:numColumns="5" />
+        <com.android.yoga.dashclockpicker.ColorPreference
+            android:defaultValue="@color/colorAccent"
+            android:key="colorAccent"
+            android:negativeButtonText="@null"
+            android:positiveButtonText="@null"
+            android:summary="@string/settings_primary_color_description"
+            android:title="@string/settings_primary_color"
+            app:choices="@array/colors_primary"
+            app:itemLayout="@layout/dash_grid_item_color"
+            app:numColumns="5" />
+    </com.jenzz.materialpreference.PreferenceCategory>
+</PreferenceScreen>

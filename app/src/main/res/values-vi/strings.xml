@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yoga</string>
+    <string name="apiYoutube">AIzaSyCCrAmTuviLjOScT6qTcj34LUfFe_80kRI</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2257698129050878/4646170348</string>
+    <string name="banner_ad_detail">ca-app-pub-2257698129050878/6122903541</string>
+    <string name="banner_popup">ca-app-pub-2257698129050878/1041301941</string>
+    <string name="sign_in">Sign in</string>
+    <string name="lang_vn">Tiếng Việt</string>
+
+    <string name="all">Tất cả</string>
+    <string name="inbox">Inbox</string>
+    <string name="starred">Starred</string>
+    <string name="sent_mail">Sent Mail</string>
+    <string name="drafts">Drafts</string>
+    <string name="categories">Categories</string>
+    <string name="trash">Trash</string>
+    <string name="spam">Spam</string>
+    <string name="settings">Settings</string>
+
+    <string name="add">Tất Cả</string>
+    <string name="search">Tìm Kiếm</string>
+
+    <string name="important">Important</string>
+    <string name="documents">Documents</string>
+
+    <!-- Toast -->
+    <string name="open_user_profile">Open user profile</string>
+    <string name="open_settings">Open settings</string>
+
+    <string name="type">Các Tư Thế</string>
+    <string name="level">Trình Độ</string>
+    <string name="az">Tất Cả</string>
+    <string name="posebase">Tư Thế Chân Trụ</string>
+    <string name="programs">Hệ Thống Bài Tập</string>
+    <string name="goal">Mục Tiêu</string>
+    <string name="duration">Toàn Thời Gian</string>
+
+    <string name="transitionImage">image</string>
+    <string name="transitionTitle">Tiêu Đề</string>
+    <string name="Recherche">Recherche</string>
+    <string name="author">Tác Giả</string>
+    <string name="description">Hướng Dẫn</string>
+    <string name="detail">Chi tiết</string>
+    <string name="filter">Lọc</string>
+    <string name="balances">Thăng Bằng</string>
+    <string name="backbends">Uốn Cong</string>
+    <string name="breathing">Breathing</string>
+    <string name="forwardbends">Forward Bends</string>
+    <string name="inverted">Đảo Lộn</string>
+    <string name="lyingb">Nằm Ngửa</string>
+    <string name="lyings">Nằm Sấp</string>
+    <string name="sitting">Ngồi và Thiền</string>
+    <string name="standing">Đứng</string>
+
+    <string name="beginner">Sơ Cấp</string>
+    <string name="intermediate">Trung Cấp</string>
+    <!--trung cấp-->
+    <string name="advanced">Nâng Cao</string>
+    <!--nâng cao-->
+    <string name="coming">Đang Cập Nhật</string>
+
+    <string name="NetworkError">Lỗi kết nối mạng. Vui lòng vuốt màn hình từ trên xuống để tải lại.</string>
+    <string name="servererr">Lỗi kết nối tới máy chủ. Vui lòng vuốt màn hình từ trên xuống để tải lại.</string>
+    <string name="AuthFailureError">Xác thực thất bại. Vui lòng vuốt màn hình từ trên xuống để tải lại.</string>
+    <!--xác thực-->
+    <string name="ParseError">Lỗi phân tích dữ liệu. Vui lòng vuốt màn hình từ trên xuống để tải lại.</string>
+    <string name="NoConnectionError">Lỗi không có kết nối. Vui lòng vuốt màn hình từ trên xuống để tải lại.</string>
+    <string name="TimeoutError">Thời gian kết nối quá lâu. Vui lòng vuốt màn hình từ trên xuống để tải lại.</string>
+    <string name="err">Có lỗi xảy ra, vui lòng vuốt màn hình từ trên xuống để tải lại.</string>
+    <!-- About -->
+    <string name="about_description_1">App Developer</string>
+    <string name="about_description_2">Icon Designer</string>
+    <string name="action_about">Giới Thiệu</string>
+    <string name="settings_googleplay">Đánh giá trên Google Play</string>
+    <string name="app_description">Ứng dụng này được thiết kế đẹp, dễ sử dụng. Bao gồm các bài tập tư thế và hơi thở.</string>
+    <string name="googleplus">Tham gia vào cộng đồng trên Google+</string>
+    <string name="searchs">Tìm kiếm</string>
+    <string name="search_hint">Tìm kiếm theo tên&#8230;</string>
+    <string name="search_noresults">No results were found for your search</string>
+    <string name="des">This strengthening set benefits the back and abdominal muscles. Do the asanas smoothly and carefully and you will feel the gentle power of yoga that improves your physique and enriches your mind.</string>
+    <string name="update">Cập Nhật</string>
+</resources>
